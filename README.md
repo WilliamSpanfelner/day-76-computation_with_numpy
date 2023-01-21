@@ -1,4 +1,4 @@
-![Screenshot](rocky_rev.jpg)
+![Screenshot](day-76-computation_with_numpy.png)
 
 # NumPy is the mathematical powerhouse for multidimensional array manipulation. 
 - 👋 Hi, I’m @WilliamSpanfelner
